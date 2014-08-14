@@ -14,7 +14,7 @@ function kiwiembed_func($atts) {
 		'clientURL'		=> 'https://kiwiirc.com/client',
 		'server'		=> 'irc.afraidirc.net',
 		'channel'		=> '#lobby',
-		'nick'			=> 'Web?',
+		'nick'			=> 'Kiwi-?',
 		'theme'			=> 'basic',
 		'height'		=> '450px',
 		'width'			=> '100%'
