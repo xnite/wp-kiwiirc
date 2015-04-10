@@ -1,4 +1,4 @@
-[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=WPKIRC_?#dev)
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=GitHub_?#dev)
 
 === Getting Started ===
 
