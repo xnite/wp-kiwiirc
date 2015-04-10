@@ -24,3 +24,4 @@ nick			Define the nick name clients will be given when they load the client (def
 
 theme			Define the client's theme (default: basic)
 
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=WPKIRC_?#dev)
