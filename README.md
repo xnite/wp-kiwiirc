@@ -1,3 +1,5 @@
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=WPKIRC_?#dev)
+
 === Getting Started ===
 
 You can use the shortcode [kiwiirc] to embed a kiwi client on any page or post of your Wordpress website.
@@ -23,5 +25,3 @@ clientURL		Define the base URL to the KiwiIRC client install (default: https://k
 nick			Define the nick name clients will be given when they load the client (default: Kiwi-?)
 
 theme			Define the client's theme (default: basic)
-
-[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=WPKIRC_?#dev)
