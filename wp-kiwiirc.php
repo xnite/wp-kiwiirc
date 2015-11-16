@@ -6,6 +6,7 @@ Description: Allows you to embed a KiwiIRC client with a shortcode.
 Version: 1.0
 Author: Robert Whitney <xnite@xnite.org>
 Author URI: https://xnite.me
+License: GNU General Public License, version 3
 */
 
 function kiwiembed_func($atts) {
