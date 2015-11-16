@@ -5,14 +5,13 @@ Plugin URI: https://github.com/xnite/wp-kiwiirc
 Description: Allows you to embed a KiwiIRC client with a shortcode.
 Version: 1.0
 Author: Robert Whitney <xnite@xnite.org>
-Author URI: http://xnite.org
-License: http://xnite.org/copyright#code
+Author URI: https://xnite.me
 */
 
 function kiwiembed_func($atts) {
 	extract(shortcode_atts(array(
 		'clientURL'		=> 'https://kiwiirc.com/client',
-		'server'		=> 'irc.afraidirc.net',
+		'server'		=> 'irc.altsociety.co',
 		'channel'		=> '#lobby',
 		'nick'			=> 'Kiwi-?',
 		'theme'			=> 'basic',
