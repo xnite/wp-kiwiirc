@@ -4,7 +4,7 @@ Plugin Name: WP-KiwiIRC
 Plugin URI: https://github.com/xnite/wp-kiwiirc
 Description: Allows you to embed a KiwiIRC client with a shortcode.
 Version: 1.0
-Author: Robert Whitney <xnite@xnite.org>
+Author: Robert Whitney <xnite@xnite.me>
 Author URI: https://xnite.me
 License: GNU General Public License, version 3
 */
