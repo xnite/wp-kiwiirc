@@ -1,4 +1,4 @@
-[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.afraidirc.net/dev.png)](https://kiwiirc.com/client/irc.afraidirc.net/?nick=GitHub_?#dev)
+[![Visit our IRC channel](https://kiwiirc.com/buttons/irc.altsociety.co/DevDen.png)](https://kiwiirc.com/client/irc.altsociety.co/?nick=GitHub_?#DevDen)
 
 === Getting Started ===
 
@@ -6,7 +6,7 @@ You can use the shortcode [kiwiirc] to embed a kiwi client on any page or post o
 
 Example:
 
-[kiwiirc width="600px" height="450px" server="irc.afraidirc.net" channel="#lobby" nick="WebClient_?" theme="relaxed"]
+[kiwiirc width="600px" height="450px" server="irc.altsociety.co" channel="#lobby" nick="WebIRC_?" theme="relaxed"]
 
 === Options ===
 
@@ -16,7 +16,7 @@ width			Define the width of your client (default: 100%)
 
 height			Define the height of your client (default: 450px)
 
-server			Define the IRC server your clients will connect to (default: irc.afraidirc.net)
+server			Define the IRC server your clients will connect to (default: irc.altsociety.co)
 
 channel			Define the channel your clients will connect to (default: #lobby)
 
